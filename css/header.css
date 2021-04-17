@@ -1,0 +1,19 @@
+header {
+    background-color: gray;
+    padding: 50px;
+}
+
+header .title-header {
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+header .subtitle-header {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+    text-align: center;
+}
